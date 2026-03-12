@@ -1,0 +1,6 @@
+/* CSS reset and clean up */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
