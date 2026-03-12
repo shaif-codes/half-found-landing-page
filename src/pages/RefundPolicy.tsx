@@ -1,4 +1,3 @@
-import React from 'react';
 import PolicyLayout from '../components/PolicyLayout';
 
 const RefundPolicy = () => {
