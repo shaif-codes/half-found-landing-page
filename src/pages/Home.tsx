@@ -122,7 +122,7 @@ const Home = () => {
                                 Join thousands of people who are finding connections on Half Found.
                             </p>
                             <a
-                                href="https://firebasestorage.googleapis.com/v0/b/vibetalk-aa16c.firebasestorage.app/o/android_apk%2Fapp-release.apk?alt=media&token=31c3aece-4949-487c-8f1f-7a3e8fd39df9"
+                                href="https://firebasestorage.googleapis.com/v0/b/vibetalk-aa16c.firebasestorage.app/o/android_apk%2Fapp-release.apk?alt=media"
                                 className="bg-primary hover:bg-primary/90 text-white px-10 py-5 rounded-full text-xl font-bold shadow-glow-pink transition-all hover:scale-105 active:scale-95 inline-block"
                             >
                                 Download Now
